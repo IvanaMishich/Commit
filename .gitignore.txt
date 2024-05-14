@@ -1,2 +1,2 @@
-Переключатели.html
-Поля для атрибута input.html
+C:\Users\user\Коды\Верстка страниц HTML,CSS\Переключатели.html
+C:\Users\user\Коды\Верстка страниц HTML,CSS\Поля для атрибута input.html
